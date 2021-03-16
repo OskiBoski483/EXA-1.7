@@ -10,9 +10,10 @@ public class Main {
 
 
 
-    System.out.println("Kernel file: EXA/System32/kernel.java");
-    System.out.println("Founded Kernel Version");
-
+    System.out.println("Fatal Errnor!");
+    System.out.println("The computer will restart automatically");
+    System.out.println("Collecting the error information");
+    System.out.println("Completed:");
 
 
 
